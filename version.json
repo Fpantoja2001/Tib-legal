@@ -1,5 +1,5 @@
 {
-  "minBuild": 8,
+  "minBuild": 9,
   "message": "A newer version of Tib is available with important fixes. Please update to continue.",
   "updateURL": "https://testflight.apple.com/join/YWRAjGqu"
 }
